@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-tr from-[#4d1933] to-[#1a0d1f] text-white pt-10 pb-4 px-4 md:px-16 relative overflow-hidden w-full">
+    <footer className="bg-gradient-to-tr from-[#2d1933] to-[#1a0d1f] text-white pt-10 pb-4 px-4 md:px-16 relative overflow-hidden w-full">
       {/* Background watermark */}
       <div className="absolute inset-0 flex justify-center items-center pointer-events-none select-none opacity-10">
         <img src="/logo1.png" alt="Midnight Silog Express Logo" className="w-96 h-96 object-contain" />
