@@ -9,7 +9,7 @@ import Sec1 from './component/Sec1'
 import Sec2 from './component/Sec2'
 import Sec3 from './component/Sec3'
 import Footer from './component/Footer'
-import Sec4 from './component/sec4'
+import Sec4 from './component/Sec4'
 
 
 function App() {
